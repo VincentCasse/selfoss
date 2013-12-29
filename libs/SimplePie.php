@@ -465,7 +465,7 @@ class SimplePie
 	 * @see SimplePie::set_timeout()
 	 * @access private
 	 */
-	public $timeout = 10;
+	public $timeout = 5;
 
 	/**
 	 * @var bool Forces fsockopen() to be used for remote files instead
